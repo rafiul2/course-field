@@ -1,0 +1,75 @@
+
+ [
+    {
+      "id": 1,
+      "img": "./images/a.png",
+      "title": "Introduction to Web Development",
+      "price": 49.99,
+      "credit": 3,
+      "description": "This course covers the basics of HTML, CSS, and JavaScript, providing a foundation for aspiring web developers."
+    },
+    {
+      "id": 2,
+      "img": "./images/2.png",
+      "title": "Machine Learning Fundamentals",
+      "price": 79.99,
+      "credit": 4,
+      "description": "Learn the fundamentals of machine learning algorithms, data preprocessing, and model evaluation in this comprehensive course."
+    },
+    {
+      "id": 3,
+      "img": "./images/3.png",
+      "title": "Graphic Design Essentials",
+      "price": 39.99,
+      "credit": 2,
+      "description": "Discover the principles of graphic design, including typography, color theory, and layout techniques."
+    },
+    {
+      "id": 4,
+      "img": "./images/4.png",
+      "title": "Financial Planning for Beginners",
+      "price": 29.99,
+      "credit": 1,
+      "description": "This course provides an introduction to personal finance, covering budgeting, saving, and investment basics."
+    },
+    {
+      "id": 5,
+      "img": "./images/5.png",
+      "title": "Photography Masterclass",
+      "price": 69.99,
+      "credit": 4,
+      "description": "Master the art of photography, from composition and lighting to post-processing techniques, in this comprehensive course."
+    },
+    {
+      "id": 6,
+      "img": "./images/6.png",
+      "title": "Mobile App Development",
+      "price": 59.99,
+      "credit": 3,
+      "description": "Learn how to develop mobile applications for iOS and Android platforms using popular frameworks like React Native and Flutter."
+    },
+    {
+      "id": 7,
+      "img": "./images/7.png",
+      "title": "Digital Marketing Strategies",
+      "price": 49.99,
+      "credit": 3,
+      "description": "Explore various digital marketing channels, including SEO, SEM, social media, and email marketing, and learn how to create effective marketing strategies."
+    },
+    {
+      "id": 8,
+      "img": "./images/8.png",
+      "title": "Data Analysis with Python",
+      "price": 59.99,
+      "credit": 3,
+      "description": "Gain proficiency in data analysis using Python, including data manipulation, visualization, and statistical analysis."
+    },
+    {
+      "id": 9,
+      "img": "./images/9.png",
+      "title": "Creative Writing Workshop",
+      "price": 34.99,
+      "credit": 2,
+      "description": "Unlock your creativity and enhance your writing skills through workshops, exercises, and constructive feedback."
+    }
+  ]
